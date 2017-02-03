@@ -20,6 +20,10 @@
   height: 500px;
 }
 
+.carousel a {
+  color: #f0f0f0;
+  // text-decoration: underline;
+}
 @media (min-width: 768px) {
   .carousel-caption p {
     margin-bottom: 20px;

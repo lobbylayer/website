@@ -28,6 +28,12 @@
     margin: 80px 0;
 }
 
+.featurette-image {
+    -webkit-box-shadow: 8px 6px 17px -6px rgba(82, 82, 82, 1);
+    -moz-box-shadow: 8px 6px 17px -6px rgba(82, 82, 82, 1);
+    box-shadow: 8px 6px 17px -6px rgba(82, 82, 82, 1);
+}
+
 .featurette-heading {
     font-weight: 300;
     line-height: 1;

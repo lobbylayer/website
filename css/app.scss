@@ -34,6 +34,9 @@
     box-shadow: 8px 6px 17px -6px rgba(82, 82, 82, 1);
 }
 
+.carousel-inner > .item > img {
+    height: initial !important;
+}
 .featurette-heading {
     font-weight: 300;
     line-height: 1;
